@@ -4,13 +4,12 @@
 
 ## OVERVIEW
 
-You are tasked to build a simple interface against a slice of a REST API by forking our existing base GitHub repository containing the foundation of a React + Next.js application.
+You are tasked to build a simple interface against a slice of a REST API by forking this GitHub repository containing the foundation of a React + Next.js application.
 
-- GitHub to fork - https://github.com/Eventogy/eventogy-frontend-static
 - API Endpoint - https://www.eventogy.com/api/events.json
-- Design Mock Up
+- Design Mock Up:
 
-  <img src="public/event-list.png" alt="design" width="900"/>
+![event_list](https://github.com/Eventogy/eventogy-frontend-static/assets/95762760/4c6aa659-7864-4649-9b0b-4755fc7862bf)
 
 ## OBJECTIVES
 
