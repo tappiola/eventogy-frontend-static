@@ -18,7 +18,7 @@ Demonstrate your attention to detail in the presentation layer - does it work as
 
 ## SPECIFICATIONS
 
-You can (and should) use any and all resources at your disposal to complete the task. We suggest reading on how to use styling helpers like Tailwind and prebuilt component libraries, like Shadcn, which we have included part of the base repository.
+You can (and should) use any and all resources at your disposal to complete the task. We suggest using style libraries like **Tailwind** and prebuilt component libraries, like **Shadcn**, rather than spending time manually styling the page.
 
 We’re looking to see how much you can achieve in 2, 3 hours, but feel free to spend extra time in order to complete a subtask or fix a bug. Make sure you commit your project to the forked Git repository and periodically commit as you progress in the task.
 
