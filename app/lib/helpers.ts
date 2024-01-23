@@ -9,7 +9,7 @@ import advancedFormat from "dayjs/plugin/advancedFormat.js";
  * @example ["2024-01-20 12:21:52","2024-01-22 11:03:14"] => "January 20th - 22nd, 2024"
  * @example ["2024-01-20 12:21:52"] => "January 20th, 2024"
  * @example ["2023-12-20 12:21:52", "2024-01-22 11:03:14"] => "December 20th, 2023 - January 22nd, 2024"
- * @example ["2024-01-20 12:21:52", "2024-02-13 11:03:14"] => "December 20th - February 13th, 2024"
+ * @example ["2024-01-20 12:21:52", "2024-02-13 11:03:14"] => "January 20th - February 13th, 2024"
  */
 export const formatDateRange = (dateRange: string[]): string => {
   dayjs.extend(advancedFormat);
