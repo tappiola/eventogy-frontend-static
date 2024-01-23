@@ -2,6 +2,7 @@
 import Link from "next/link";
 import { ReactNode } from "react";
 import { usePathname } from "next/navigation";
+
 const ActiveLink = ({
   children,
   href,

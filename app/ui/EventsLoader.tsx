@@ -1,7 +1,5 @@
 import { Skeleton } from "primereact/skeleton";
 import { Card } from "primereact/card";
-import Image from "next/image";
-import { formatDateRange } from "../lib/helpers";
 import React from "react";
 
 const EventsLoader = () => {

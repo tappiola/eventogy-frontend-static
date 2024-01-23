@@ -3,6 +3,7 @@ import logo from "../../public/eventogy-logo.svg";
 import Image from "next/image";
 import { Button } from "primereact/button";
 import { InputText } from "primereact/inputtext";
+
 const Header = () => {
   return (
     <header
